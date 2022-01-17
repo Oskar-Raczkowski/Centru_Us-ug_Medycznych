@@ -1,0 +1,176 @@
+@font-face { font-family: Delicious; src: url('Delicious-Roman.otf'); } 
+ @font-face { font-family: Delicious; font-weight: bold; src: url('Delicious-Bold.otf');}
+@font-face { font-family: Spartan; src: url('Spartan-Regular.TTF'); } 
+body{
+	max-width: 700px;
+  	margin: auto;
+  	background: white;
+  	padding: 10px;
+  	font-family: Spartan;
+  	font-size: 13px;
+  	text-align: justify;
+
+}
+h1{
+	 	background: -webkit-linear-gradient(#00c6b2, #036451);
+ 	 -webkit-background-clip: text;
+ 	 -webkit-text-fill-color: transparent;
+}
+h2{
+ 	background: -webkit-linear-gradient(#00c6b2, #036451);
+ 	 -webkit-background-clip: text;
+ 	 -webkit-text-fill-color: transparent;
+	font-size: 21px;
+}
+h4{
+	font-size: 20px;
+}
+h5{
+	background: -webkit-linear-gradient(#00c6b2, #036451);
+ 	 -webkit-background-clip: text;
+ 	 -webkit-text-fill-color: transparent;
+font-size: 20px;
+}
+h6{
+font-size: 27px;
+
+}
+p{
+	color: #036451;
+	text-align: justify;
+}
+g{
+	font-size: 10px;
+}
+a{
+	font-size: 8px;
+}
+li{
+	color: #036451;
+}
+.logo{
+	float: left;
+	max-width: 45%;
+
+}
+.logo2{
+	float: left;
+	
+}
+.srodek{
+	float: left;
+	max-width: 50%;
+
+}
+.srodek2{
+	float: left;
+	text-align: left;
+	padding: 20px;
+
+}
+.stopka2{
+background: -webkit-linear-gradient(#00c6b2, #036451);
+height: 300px;
+float: left;
+width: 100%;
+}
+.stop2wew{
+
+	max-width: 40%;
+	float: left;
+	text-align: left;
+	color: white;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+	margin-right: 20px;
+	 
+}
+.stop2pra{
+	max-width: 40%;
+	float: right;
+	text-align: left;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+	margin-right: 40px;
+	color: white;
+}
+ul {
+    margin: 0.75em 0;
+    padding: 0 1em;
+    list-style: none;
+}
+li{ 
+   list-style-image: url(zdj/mysl2.png);
+
+}
+.przyciski{
+	float: right;
+}
+.button {
+	background: -webkit-linear-gradient(#00c6b2, #036451);
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+.button2 {
+
+  border: none;
+  color: black;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: white;
+}
+.button3 {
+  border: none;
+  color: black;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: white;
+}
+.zdj{
+	float: right;
+	max-width: 48%;
+}
+.pik1{
+	float: left;
+	max-width: 50%;
+}
+.pik2{
+	float: left;
+	max-width: 50%;
+}
+.lower{
+	float: left;
+	clear: both;
+}
+
+.wizyta{
+	margin-left: 35%;
+	float: left;
+	text-align: right;
+}
+.wizyta2{
+	float: left;
+}
+.pusta{
+	width: 100px;
+}
